@@ -1,0 +1,15 @@
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\bin\Debug\net10.0\XuLyChuoiTiepTheo.exe
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\bin\Debug\net10.0\XuLyChuoiTiepTheo.deps.json
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\bin\Debug\net10.0\XuLyChuoiTiepTheo.runtimeconfig.json
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\bin\Debug\net10.0\XuLyChuoiTiepTheo.dll
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\bin\Debug\net10.0\XuLyChuoiTiepTheo.pdb
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.AssemblyInfoInputs.cache
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.AssemblyInfo.cs
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.csproj.CoreCompileInputs.cache
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.sourcelink.json
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.dll
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\refint\XuLyChuoiTiepTheo.dll
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.pdb
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\XuLyChuoiTiepTheo.genruntimeconfig.cache
+D:\MonC#\MonHocC-\XuLyChuoiTiepTheo\XuLyChuoiTiepTheo\obj\Debug\net10.0\ref\XuLyChuoiTiepTheo.dll

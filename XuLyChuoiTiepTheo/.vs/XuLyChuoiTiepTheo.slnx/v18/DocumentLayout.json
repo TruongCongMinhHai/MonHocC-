@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|d:\\monc#\\monhocc-\\xulychuoitieptheo\\xulychuoitieptheo\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|solutionrelative:xulychuoitieptheo\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|d:\\monc#\\monhocc-\\xulychuoitieptheo\\xulychuoitieptheo\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|solutionrelative:xulychuoitieptheo\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|d:\\monc#\\monhocc-\\xulychuoitieptheo\\xulychuoitieptheo\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7176A9AB-79CC-E1C9-61BC-3022E278F9D6}|XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo.csproj|solutionrelative:xulychuoitieptheo\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai9.cs",
+              "DocumentMoniker": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai9.cs",
+              "RelativeDocumentMoniker": "XuLyChuoiTiepTheo\\Bai9.cs",
+              "ToolTip": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai9.cs",
+              "RelativeToolTip": "XuLyChuoiTiepTheo\\Bai9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:53:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai8.cs",
+              "DocumentMoniker": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai8.cs",
+              "RelativeDocumentMoniker": "XuLyChuoiTiepTheo\\Bai8.cs",
+              "ToolTip": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai8.cs",
+              "RelativeToolTip": "XuLyChuoiTiepTheo\\Bai8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:53:28.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai7.cs",
+              "RelativeDocumentMoniker": "XuLyChuoiTiepTheo\\Bai7.cs",
+              "ToolTip": "D:\\MonC#\\MonHocC-\\XuLyChuoiTiepTheo\\XuLyChuoiTiepTheo\\Bai7.cs",
+              "RelativeToolTip": "XuLyChuoiTiepTheo\\Bai7.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:50:24.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
