@@ -13,7 +13,7 @@ class bai3
         }
         input = input.Replace(" ", "").ToLower();
         int left = 0;
-        int right = input.Length - 1
+        int right = input.Length - 1;
         bool doiXung = true;
         while (left < right)
         {
